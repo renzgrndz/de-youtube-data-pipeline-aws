@@ -440,3 +440,9 @@ LIMIT 10;
 
 - **YouTube Data API v3** — live trending video data (primary)
 - **Kaggle YouTube Trending Dataset** — historical data for backfill and testing
+
+---
+
+## Credits
+
+- **Darshil Parmar** - https://www.youtube.com/watch?v=yvAWbbQa8eE&list=WL&index=15
