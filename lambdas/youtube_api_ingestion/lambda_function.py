@@ -12,7 +12,7 @@ Environment Variables:
     YOUTUBE_API_KEY       — (Google API key with YouTube Data API v3 enabled)
     S3_BUCKET_BRONZE      — youtube-data-pipeline-bronze-us-east-1-aws (Target S3 bucket for raw data) 
     YOUTUBE_REGIONS       — US,GB,CA,IN (Comma-separated region codes (default: US,GB,CA,...))
-    SNS_ALERT_TOPIC_ARN   — arn:aws:sns:us-east-1:628165508199:yt-data-pipeline-alerts-dev:2915991b-1b9f-4e1b-8787-c3df9dd67ddf (SNS topic for failure alerts)
+    SNS_ALERT_TOPIC_ARN   — arn:aws:sns:us-east-1 (SNS topic for failure alerts)
 """
 
 import json
