@@ -12,7 +12,7 @@ Checks performed:
   5. Freshness — is the data recent enough?
 
 Environment Variables:
-    SNS_ALERT_TOPIC_ARN     - arn:aws:sns:us-east-1:628165508199:yt-data-pipeline-alerts-dev
+    SNS_ALERT_TOPIC_ARN     - arn:aws:sns:us-east-1
     ATHENA_S3_OUTPUT        - s3://yt-data-pipeline-glue-athena-query-result-aws/ 
     ATHENA_WORKGROUP        - primary
 
