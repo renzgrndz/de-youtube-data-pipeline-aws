@@ -15,7 +15,7 @@ Environment Variables:
     S3_BUCKET_SILVER            — youtube-data-pipeline-silver-us-east-1-aws (Target bucket for cleansed data)
     GLUE_DB_SILVER              — yt_pipeline_silver_dev (Glue catalog database name)
     GLUE_TABLE_REFERENCE        — Glue catalog table name
-    SNS_ALERT_TOPIC_ARN         — arn:aws:sns:us-east-1:628165508199:yt-data-pipeline-alerts-dev:2915991b-1b9f-4e1b-8787-c3df9dd67ddf (SNS topic for alerts (optional))
+    SNS_ALERT_TOPIC_ARN         — arn:aws:sns:us-east-1:628165508199 (SNS topic for alerts (optional))
 """
 
 import json
